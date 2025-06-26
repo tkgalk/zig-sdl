@@ -1,0 +1,29 @@
+# Zig build artifacts
+zig-out/
+.zig-cache/
+
+# Build outputs
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+docs/
+
+# Temporary files
+*.tmp
+*.temp 
